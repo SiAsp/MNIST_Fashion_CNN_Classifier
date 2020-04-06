@@ -1,10 +1,10 @@
-INFO284_Asignment2
+## INFO284 Assignment 2
+# Convolutional Neural Netork for MNIST Fashion Classification
 sas020
 
 This project is a Convolutional Neural Network achieving an accuracy of 92.120% on the MNIST Fashion dataset.
 
-
-Comments on hyperparameters:
+## Comments on hyperparameters:
 
 The network is defined with a learningrate (lr) of 0.001, 30 epochs and a batch size of 100.
 
